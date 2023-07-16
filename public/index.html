@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Global Country Insights</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Global Country Insights</h1>
+  </header>
+  <main>
+    <div class="container">
+      <label for="countryInput">Enter a Country Name:</label>
+      <input type="text" id="countryInput" name="countryInput" list="countries" autofocus>
+      <datalist id="countries"></datalist>
+      <button onclick="getCountryDetails()">Get Details</button>
+    </div>
+    <div id="countryDetails" class="container"></div>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
+
