@@ -5,7 +5,7 @@ Country Insights Explorer is a web-based application that provides users with de
 ## Features
 
 - Dynamic Search: Enter any country name to fetch comprehensive details instantly.
-- Geographic Insights: Discover region, subregion, time zones, and more.
+- Geographic Insights: Discover region, time zones, and more.
 - Language & Currency: Learn about spoken languages and currencies used in each country.
 - Population Data: Access real-time population count and demographic trends.
 - Flag Showcase: Admire the national flags of various countries.
